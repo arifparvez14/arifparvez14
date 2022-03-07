@@ -23,12 +23,12 @@
   
 
 
-<h3 align="left">Stats</h3>
+<h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifparvez14&show_icons=true&locale=en&layout=compact&theme=radical" alt="arifparvez14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifparvez14&show_icons=true&locale=en&theme=radical" alt="arifparvez14" /></p>
 
 
-<h3 align="left">Matrics</h3>
+<h3 align="left">Github Matrics:</h3>
 <p><img align="center" src="https://metrics.lecoq.io/arifparvez14" alt="arifparvez14" /></p>
 
