@@ -3,7 +3,7 @@
 <h3 align="center">A passionate iOS developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifparvez14&label=Profile%20views&color=0e75b6&style=flat" alt="arifparvez14" /> </p>
 
-- 🌱 I’m currently learning **Test Driven Development**
+- 🌱 I’m currently learning **Swift UI**
 
 - 📝 I regularly write articles on [https://medium.com/@arifulislam14](https://medium.com/@arifulislam14)
 
