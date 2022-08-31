@@ -3,7 +3,7 @@
 <h3 align="center">A passionate iOS developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifparvez14&label=Profile%20views&color=0e75b6&style=flat" alt="arifparvez14" /> </p>
 
-- 🌱 I’m currently learning **Swift UI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 📝 I regularly write articles on [https://medium.com/@arifulislam14](https://medium.com/@arifulislam14)
 
@@ -24,11 +24,13 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifparvez14&show_icons=true&locale=en&layout=compact&theme=radical" alt="arifparvez14" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifparvez14&show_icons=true&locale=en&theme=radical" alt="arifparvez14" /></p>
+
+
+<!--- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifparvez14&show_icons=true&locale=en&layout=compact&theme=radical" alt="arifparvez14" /></p>
 
 
 <h3 align="left">Github Matrics:</h3>
 <p><img align="center" src="https://metrics.lecoq.io/arifparvez14" alt="arifparvez14" /></p>
-
+---> 
